@@ -30,7 +30,7 @@ function App() {
                     />
                 </div>
                 <div>
-                    <h1 className="text-red-500 text-3xl font-bold text-center">Get started</h1>
+                    <h1 className="text-red-400/80 text-3xl font-bold text-center">Get started</h1>
                     <p>
                         Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
                     </p>
