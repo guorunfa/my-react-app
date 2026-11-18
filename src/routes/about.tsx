@@ -8,7 +8,7 @@ function RouteComponent() {
     const router = useRouter()
     const goHome = () =>
         router.navigate({
-            to: '/',                               
+            to: '/',
         })
     return (
         <div className="flex flex-col items-center justify-center">
@@ -19,7 +19,6 @@ function RouteComponent() {
             >
                 <div>Go Home</div>
             </button>
-        </div>                                                                                                                                                                                                                                                                                                                                                                                           
+        </div>
     )
 }
-                   
